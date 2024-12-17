@@ -1,2 +1,4 @@
 Git is a distributed version control system that allows multiple developers to collaborate on a project. It tracks changes made to files, ensuring that everyone
  can access the full history of the project and work on different parts without interfering with each other. 
+Git branches allow you to work on different features or bug fixes independently from the main codebase. By creating separate branches, developers
+ can experiment or make changes without affecting the main project until they are ready to merge their changes back.
